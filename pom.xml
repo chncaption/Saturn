@@ -100,7 +100,7 @@
 		<maven-plugin-api.version>2.0</maven-plugin-api.version>
 		<maven-plugin-descriptor.version>2.0</maven-plugin-descriptor.version>
 		<maven-project.version>2.0</maven-project.version>
-		<maven-plugin-plugin.version>3.4</maven-plugin-plugin.version>
+		<maven-plugin-plugin.version>3.10.1</maven-plugin-plugin.version>
 		<maven-javadoc-plugin.version>2.10.3</maven-javadoc-plugin.version>
 		<maven-source-plugin.version>2.4</maven-source-plugin.version>
 		<maven-jxr-plugin.version>2.5</maven-jxr-plugin.version>
@@ -522,7 +522,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -535,7 +535,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
