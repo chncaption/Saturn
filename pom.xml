@@ -70,7 +70,7 @@
 		<logback.version>1.1.7</logback.version>
 		<janino.version>2.6.1</janino.version>
 
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.13.4</jackson.version>
 		<jackson-mapper-asl.version>1.9.13</jackson-mapper-asl.version>
 		<jackson-core-asl.version>1.9.13</jackson-core-asl.version>
 
@@ -522,7 +522,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -535,7 +535,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
